@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**kithshan-Madushanka/kithshan-Madushanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m KIthshan Madushanka<br>🤝 I’m looking to collaborate to gain good experiences <br>💬 How to reach me kithshan474@gmail.com<br>⚡ Fun fact - not a hard worker but a nice smart worker 
 
